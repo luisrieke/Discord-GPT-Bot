@@ -64,3 +64,7 @@ After get inside the floder, run the code to start the NodeJS and your discord b
     node index.js
 
 if you code working properly, it will showing message in terminal ***Bot Start & Login Successful!*** and your bot will be online in the Discord.
+
+## More
+
+This ressource could be interesting as well: [https://github.com/openai/gpt-discord-bot](https://github.com/openai/gpt-discord-bot)
